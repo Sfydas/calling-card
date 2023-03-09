@@ -90,7 +90,7 @@ main {
   border-bottom: 1px solid #fff;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1800px) {
   .ListaLinkuri {
     display: grid;
     grid-template-columns: 1fr 1fr;
