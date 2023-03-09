@@ -44,32 +44,35 @@ main {
 }
 
 .ListaLinkuri {
-display:block;
-margin:0;
-padding:0;
+  display: block;
+  margin: 0;
+  padding: 0;
 }
 
-.ListaItem{
-    display:block;
-    margin:0;
-    padding:0;
-    border-bottom: 1px solid #fff;
-    
+.ListaItem {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid #fff;
 }
 
-.ListaLink{
-    display:block;
-    margin:0;
-    padding:0.5em;
-    color: #fff;
-    text-decoration: none;
+.ListaLink {
+  display: block;
+  margin: 0;
+  padding: 0.5em;
+  border-top: 1px solid #fff ;
+  color: #fff;
+  text-decoration: none;
 }
 
-.ListaTitlu, .ListaText{
-    display:block;
-    margin: 0;
-    padding: 0;
-    font-size: 1em;
-    line-height: 1.5em;
-    }
+.ListaTitlu,
+.ListaText {
+  display: block;
+  margin: 0;
+  padding: 0;
+  font-size: 1em;
+  line-height: 1.5em;
+}
 
+.ListaText {
+}
